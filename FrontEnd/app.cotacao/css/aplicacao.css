@@ -1,0 +1,23 @@
+.form-control {
+    margin-top: 7px;
+}
+
+.cor-linha {
+    background-color:aqua;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.alert {
+    margin-top: 7px;
+}
+.custom-select {
+    margin-top: 9px;
+}
+.btn{
+    background-color: #4EEE94;
+    color: black;
+    
+}
