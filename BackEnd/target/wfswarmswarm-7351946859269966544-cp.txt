@@ -1,0 +1,24 @@
+org.postgresql:postgresql:jar:42.2.2:
+  - org.postgresql:postgresql:jar:42.2.2:compile
+javax.servlet:javax.servlet-api:jar:4.0.1:
+  - javax.servlet:javax.servlet-api:jar:4.0.1:provided
+org.apache.maven.plugins:maven-deploy-plugin:jar:2.7:
+  - org.apache.maven:maven-settings:jar:2.0.6:compile
+  - org.apache.maven:maven-repository-metadata:jar:2.0.6:compile
+  - junit:junit:jar:3.8.1:compile
+  - org.apache.maven:maven-plugin-api:jar:2.0.6:compile
+  - org.codehaus.plexus:plexus-utils:jar:1.5.6:compile
+  - org.apache.maven:maven-artifact:jar:2.0.6:compile
+  - org.apache.maven:maven-project:jar:2.0.6:compile
+  - org.apache.maven:maven-profile:jar:2.0.6:compile
+  - org.codehaus.plexus:plexus-container-default:jar:1.0-alpha-9-stable-1:compile
+  - org.apache.maven.wagon:wagon-provider-api:jar:1.0-beta-2:compile
+  - org.apache.maven:maven-plugin-registry:jar:2.0.6:compile
+  - org.apache.maven.plugins:maven-deploy-plugin:jar:2.7:compile
+  - org.apache.maven:maven-model:jar:2.0.6:compile
+  - org.apache.maven:maven-artifact-manager:jar:2.0.6:compile
+  - classworlds:classworlds:jar:1.1-alpha-2:compile
+javax:javaee-api:jar:7.0:
+  - javax:javaee-api:jar:7.0:provided
+  - javax.activation:activation:jar:1.1:provided
+  - com.sun.mail:javax.mail:jar:1.5.0:provided
